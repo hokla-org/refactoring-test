@@ -1,12 +1,22 @@
-# GILDED ROSE - CODE QUALITY TEST
+# HOKLA CODE QUALITY TEST
 
 ---
 
+## Pre-requis
+
+- Un IDE (VS-Code 1.50+ est recommandé)
+- Node v14+
+- npm v7+
+
+```bash
+npm install
+```
+
 ## Instructions
 
-Ce test est une mise en situation, tu arrives sur un nouveau projet avec un code de mauvaise qualité et ton client te demande de rajouter une fonctionnalité pour demain. Tu es conscient que tu ne seras plus sur ce projet après-demain, tu dois donc aussi faire en sortes que le prochain développeur puisse reprendre la main sur ce projet très facilement. A toi de jouer pour modifier le code et le rendre plus compréhensible.
+Ce test est une mise en situation, tu arrives sur un nouveau projet avec un code de mauvaise qualité et ton client te demande de rajouter une fonctionnalité pour demain. Tu es conscient que tu ne seras plus sur ce projet après-demain, tu dois donc aussi faire en sortes que le prochain développeur puisse reprendre la main sur ce projet très facilement. A toi de jouer pour ajouter la fonctionnalité et rendre le code plus compréhensible.
 
-Tu es totalement libre sur la manière de le faire du moment que c'est justifié.
+Tu es totalement libre sur la manière de faire, tu devras justifier tes choix lors du debrief.
 
 Note : Attention ce code est actuellement en production et fonctionne correctement selon les attentes actuel du client
 
