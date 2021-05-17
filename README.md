@@ -38,9 +38,10 @@ Votre mission est d'ajouter une nouvelle fonctionnalité à notre système pour 
 
 Mais d'abord, laissez-moi vous présenter notre système :
 
-Tous les éléments ont une valeur sellIn qui désigne le nombre de jours restant pour vendre l'article.
-Tous les articles ont une valeur quality qui dénote combien l'article est précieux.
-A la fin de chaque journée, notre système diminue ces deux valeurs pour chaque produit.
+- Tous les éléments ont une valeur `sellIn` qui désigne le nombre de jours restant pour vendre l'article.
+- Tous les articles ont une valeur `quality` qui dénote combien l'article est précieux.
+- A la fin de chaque journée, notre système diminue ces deux valeurs pour chaque produit.
+
 Plutôt simple, non ?
 
 Attendez, ça devient intéressant :
