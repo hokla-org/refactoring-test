@@ -1,3 +1,17 @@
+# Ajout par Léa Ginzburg :
+
+Voici quelques actions qu'il me semblait utiles :
+- Commenter le code pour mieux le comprendre, et que quelqu'un d'autre puisse réussir à le lire rapidement
+- Regrouper les conditions pour ne pas avoir plusieurs if à la suite
+- Ajout des traitements pour l'objet "Conjured Mana Cake"
+
+Avec plus de temps et une plus grande compréhension de la demande, on aurait pu :
+- Utiliser des switch plutôt que des if, pour y voir plus clair car beaucoup de conditions sont nécessaires ici 
+- Il pourrait être intéressant de spécifier dans la classe Item un type d'objet ("Conjured", "Backstage",...). Ainsi, si des objets sont ajoutés plus tard et qu'ils correspondent à un type déjà existant, il sera plus facile de les traiter.
+
+Remarque : j'ai choisi de réajuster le code pour que les indentations soient toujours bien respectées, notamment parce que je ne suis pas habituée au javascript. Malheureusement on repère moins facilement les changements de code à cause de ça.
+
+
 # HOKLA CODE QUALITY TEST
 
 ---
